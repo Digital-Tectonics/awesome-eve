@@ -65,6 +65,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [Eveeye Explorer](https://play.google.com/store/apps/details?id=com.eveeye) - Interactive k-space maps + chain mapping.
 * [Eve Panda](https://play.google.com/store/apps/details?id=com.fnl.light.evepanda) - Manage your Eve Online characters using the ESI interface.
 * [Eve PI](https://play.google.com/store/apps/details?id=dae.evepi) - A central console for reviewing your Planetary Interaction colonies.
+* [EVE Mining Timer - Don't Over Cap Your Hold Again!](https://play.google.com/store/apps/details?id=com.digital_tectonics.eveminingtimer) - Timer tracks your mining cycles, your target size, total time and cargohold, while alerting to cycles that will not fit in your Cargo Hold. Works for Ice and Rock mining!
 * [Mining Helper](https://play.google.com/store/apps/details?id=com.randomlettersandnumbers15645151gd65fg16d5fgs46r84tserg51f3d21ger6.eveminer) - This simple app let's you select some ores and will fetch their prices in Tradehubs.
 
 ##### iOS
