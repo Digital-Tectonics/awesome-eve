@@ -66,6 +66,7 @@ Outdated fitting tools used to be listed, but they are so far out of date they r
 * [Eve Panda](https://play.google.com/store/apps/details?id=com.fnl.light.evepanda) - Manage your Eve Online characters using the ESI interface.
 * [Eve PI](https://play.google.com/store/apps/details?id=dae.evepi) - A central console for reviewing your Planetary Interaction colonies.
 * [Mining Helper](https://play.google.com/store/apps/details?id=com.randomlettersandnumbers15645151gd65fg16d5fgs46r84tserg51f3d21ger6.eveminer) - This simple app let's you select some ores and will fetch their prices in Tradehubs.
+* [Mining Timer](https://play.google.com/store/apps/details?id=com.digital_tectonics.eveminingtimer) - Let's you setup 1 ship and monitor how long until your hold is full dduring mining. Don't Over Cap Your Hold Again! 
 
 ##### iOS
 * [Neocom II for EVE Online](https://itunes.apple.com/ca/app/neocom-ii-for-eve-online/id1257353838?mt=8) - View your EVE Online characters and skills, browse EVE Online items database, analyze market information, test ship fits on your iPhone/iPad or iPod Touch.
